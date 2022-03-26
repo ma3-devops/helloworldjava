@@ -3,4 +3,5 @@ public class helloworldjava {
     System.out.println("Hello World from Jenkins - 1min jenking build");
     }
 }
+}
 
