@@ -1,6 +1,6 @@
 public class helloworldjava {
    public static void main(String[] args) {
-    System.out.println("Hello World from Jenkins- 1min 1min");
+    System.out.println("Hello World from Jenkins");
     }
 }
 
